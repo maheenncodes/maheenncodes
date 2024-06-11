@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Maheen</h1>
 <h3 align="center">A passionate web developer, fueled by a boundless curiosity for crafting digital wonders</h3>
 
-- 🔭 I’m currently working on [Text Editing Application](https://github.com/maheenncodes/Textify)
+- 🔭 I’m currently working on [DineWise](https://github.com/maheenncodes/DineWise)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Creative Coding**
 
 - 📫 How to reach me **maheen0104@gmail.com**
 
