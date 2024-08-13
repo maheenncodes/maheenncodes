@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maheen0104@gmail.com**
 
-- ⚡ Fun fact **I think i can code XD**
+- ⚡ Fun fact ****
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheenncodes" alt="maheenncodes" /></a> </p>
 
